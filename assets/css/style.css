@@ -1,0 +1,245 @@
+.sec1{
+  height: 200px;
+  background-color: #1abc9c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.hhh5{
+  text-align: center;
+  color:white;
+}
+
+
+
+.card{
+  display: flex;
+  flex-direction: column;
+align-items: center;
+  margin-top: 40px;
+  margin-bottom: 8px;
+  height: auto;
+  box-shadow: 0 4px 8px rgb(0,0,0,0.2);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border: dashed  1px #1D1616;
+}
+
+.card2{
+  margin-top: 20px;
+  width: 50%;
+  box-shadow: 0 4px 8px rgb(0,0,0,0.2);
+  border-radius: 10px;
+  height: auto;
+  padding: 10px;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+
+.card2:hover{
+box-shadow: 0 4px 8px rgba(50, 73, 75, 0.107);
+}
+
+.inppp{
+   width: 87px; 
+  margin-top: 40px;
+  padding: 2px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border:dashed 1px black ;
+}
+
+.inppp:focus{
+  outline:dashed 1px rgb(113, 112, 112);
+}
+
+.send{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.send button{
+  margin-top: 40px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  background-color: #1abc9c;
+  color:white;
+  transition:all 0.5s ease-in-out ;
+  -webkit-transition:all 0.5s ease-in-out ;
+  -moz-transition:all 0.5s ease-in-out ;
+  -ms-transition:all 0.5s ease-in-out ;
+  -o-transition:all 0.5s ease-in-out ;
+  border: none;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.17); }
+
+
+
+.send button:hover{
+  background-color: #0e715d;
+}
+.hmg1{
+  width: 10%;
+  margin-left: 10px;
+}
+
+.card3{
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+}
+
+.ppp1{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.hmg2{
+  width: 10%;
+  margin-left: 10px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+
+.v{
+  width: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+  margin-top: 90px;
+  height: 300px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  justify-content: center;
+}
+
+.ccard{
+  margin-top: 50px;
+}
+
+.ccard a{
+  text-decoration: none;
+  color: white;
+  opacity: 70%;
+}
+
+.ccard a:hover{
+  text-decoration:underline;
+}
+
+.sec2{
+  background-color: #F8FAFC;
+  height: auto;
+  margin-top: 60px;
+}
+
+
+
+.cardd{
+  height: 200px;
+  background-color: #1abc9c;
+  color:#F8FAFC;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgb(0,0,0,0.2);
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+.cardd:hover{
+   transform:translatey(-10px) ;
+   -webkit-transform:translatey(-10px) ;
+    -moz-transform:translatey(-10px) ;
+     -ms-transform:translatey(-10px) ;
+      -o-transform:translatey(-10px) ;
+}
+
+
+.sdec3{
+     background-color: #10375C;
+     color:white;
+     height: auto;
+     margin-top: 200px;
+     
+}
+
+.h4-secc3{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.card-sec3{
+  background-color: white;
+  height: 100px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  padding: 5px;
+  box-shadow: 0 4px 8px rgba(255, 254, 254, 0.4);
+  margin-bottom: 20px;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+.card-sec3:hover{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+
+}
+
+.infor{
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+}
+
+::selection{
+  background-color: #10375C;
+  color: white;
+}
